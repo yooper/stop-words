@@ -1,0 +1,12 @@
+{
+	"name": "yooper/stop-words/",
+	"description": "A collection of stop words from around the web and github.",
+	"keywords": ["stop words","ir","text analysis","natural language processing"],
+	"license": "Apache 2",
+	"authors": [
+		{
+			"name": "yooper",
+                        "email" : "dcardin2007@gmail.com"
+		}
+	]
+}
