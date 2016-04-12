@@ -13,7 +13,7 @@ class StopWordFactory
     */
     static public function get($fileName)
     {
-	    $path = realpath(__DIR__.'/data/'.basename($fileName));
+	    $path = realpath(dirname(__DIR__).'/data/'.basename($fileName));
         if(file_exists($path)) { 
             return array_map('trim', file($path));
         }

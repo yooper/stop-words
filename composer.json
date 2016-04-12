@@ -9,6 +9,6 @@
         }
     ],
     "autoload": {
-        "files": ["StopWordFactory.php"]
+        "files": ["src/StopWordFactory.php"]
     }
 }
