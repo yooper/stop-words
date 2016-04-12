@@ -8,7 +8,7 @@
             "email": "dcardin2007@gmail.com"
         }
     ],
-    "require": {
-	      "yooper/stop-words": "dev-master"
+    "autoload": {
+        "files": ["StopWordFactory.php"]
     }
 }
