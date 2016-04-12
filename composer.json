@@ -1,0 +1,14 @@
+{
+    "name": "yooper/stop-words",
+    "description": "Stop words ",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "yooper",
+            "email": "dcardin2007@gmail.com"
+        }
+    ],
+    "require": {
+	      "yooper/stop-words": "dev-master"
+    }
+}
